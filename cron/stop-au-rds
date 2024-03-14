@@ -1,0 +1,1 @@
+aws rds stop-db-cluster --db-cluster-identifier moodys-eecr-au

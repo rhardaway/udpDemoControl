@@ -1,0 +1,2 @@
+aws rds stop-db-instance --db-instance-identifier us-presales-udp-mdm-db
+

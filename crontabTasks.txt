@@ -1,0 +1,18 @@
+55 17 * * 1-5 /root/udpDemoControl/cron/start-xdm
+20 18 * * * /root/udpDemoControl/cron/stop-xdm
+
+55 17 * * 1-5 /root/udpDemoControl/cron/start-xdi
+20 18 * * * /root/udpDemoControl/cron/stop-xdi
+
+55 17 * * 1-5 /root/udpDemoControl/cron/start-xdg
+20 18 * * * /root/udpDemoControl/cron/stop-xdg
+
+55 17 * * 1-5 /root/udpDemoControl/cron/start-rds
+20 18 * * * /root/udpDemoControl/cron/stop-rds
+
+55 17 * * 1-5 /root/udpDemoControl/cron/start-au-rds
+20 18 * * * /root/udpDemoControl/cron/stop-au-rds
+
+
+
+

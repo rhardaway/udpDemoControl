@@ -1,0 +1,1 @@
+aws rds start-db-cluster --db-cluster-identifier moodys-eecr-au
